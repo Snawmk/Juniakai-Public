@@ -127,7 +127,7 @@ else:
 # Declaração dos parâmetros do Bot
 if error == False:
     bot = {
-        'webhook_url':'https://discord.com/api/webhooks/954242082288066580/jJVdVkn6A44yn_I5Dy7HI4xbJ0-atcZR645KJm5GyEw9qqrNkvNGsvLDdR-O4GGqre2n',
+        'webhook_url':'secret',
         'title_msg':f'MENSALIDADE - Mes {mespassado_string} de {datetime.now().year}',
         'msg':msg,
         'color':'0x2e702a',
@@ -145,7 +145,7 @@ if error == False:
 
 else:
     bot = {
-        'webhook_url':'https://discord.com/api/webhooks/954242082288066580/jJVdVkn6A44yn_I5Dy7HI4xbJ0-atcZR645KJm5GyEw9qqrNkvNGsvLDdR-O4GGqre2n',
+        'webhook_url':'secret',
         'title_msg':f'MENSALIDADE - Mes {mespassado_string} de {datetime.now().year}',
         'msg':msg,
         'color':'0x2e702a',
