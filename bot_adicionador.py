@@ -105,7 +105,7 @@ for pessoa in lista_respostas:
 if update == True:
     # Declaração dos parâmetros do Bot
     bot = {
-        'webhook_url':'https://discord.com/api/webhooks/950961251574480986/Mvd2mEAAN13ie3gwsMBKBlXC6CetOyKwDEBwSnDuW6UWuGeq6FUu7yPdHj8CVYPlPWmw',
+        'webhook_url':'secret',
         'title_msg':'Inclusão de NOVATOS na MASTER DATABASE',
         'msg':f'{msg}',
         'color':'0x000080',
