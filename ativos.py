@@ -141,7 +141,7 @@ def verifica_ativo_novatos(planilha,img):
 
   # Declaração dos parâmetros do Bot
   bot = {
-      'webhook_url':'https://discord.com/api/webhooks/948226891641421854/desvcxUU4hI-tAllhUnwewNbY4HEO0TrPmvUmu8plNIx5tEP73QhaBHHlHtJAKE8Psqj',
+      'webhook_url':'secret',
       'title_msg':f'Verificação semanal de ATIVOS e NOVATOS - {planilha}',
       'msg':'',
       'Field1':f'Lista dos ATIVOS ques estão faltando há mais de {int((limite_inativo/4))} meses: \n',
