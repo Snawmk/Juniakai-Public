@@ -73,7 +73,7 @@ else:
 
 # Declaração dos parâmetros do Bot
 bot = {
-    'webhook_url':'https://discord.com/api/webhooks/950218541389451274/PCAH0RZwDN3cIvqBDUVBEoZhNbMmMIG_XcimPUdBKlkkz8ZoMgil_TOoV1kzD_4GlpQx',
+    'webhook_url':'secret',
     'title_msg':'Próximos aniversariantes',
     'msg':msg,
     'color':'0x000080',
